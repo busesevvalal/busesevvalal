@@ -38,7 +38,7 @@ Pandas, NumPy, Matplotlib, Streamlit
 ---
 
 ## 🌍 Connect with Me
-📧 Email: *(isteğe bağlı eklersin)*  
-🔗 LinkedIn: *(profil linkini koyabilirsin)*  
+📧 Email: busesevvalal@gmail.com
+🔗 LinkedIn: (https://www.linkedin.com/in/buse-%C5%9Fevval-al-83074b240/)
 
 I’m open to collaborations, internships, and professional opportunities in software, AI, and data-driven projects.
