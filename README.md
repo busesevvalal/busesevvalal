@@ -1,18 +1,23 @@
 # 👋 Hi, I'm Buse Şevval Al
 
-🎓 **Mathematics Graduate | Software Developer | AI & Data Enthusiast**
+🎓 Mathematics Graduate | Software & Front-End Developer
 
-I am a Mathematics graduate with a strong analytical background and a professional interest in software development, artificial intelligence, and data-driven systems. I specialize in transforming complex mathematical concepts into practical and efficient software solutions.
+I’m a Mathematics graduate with a strong interest in software development and problem-solving. 
+I enjoy turning mathematical ideas and logical structures into clean, functional code.
+
+I mostly work with Python, Object-Oriented Programming, and Front-End technologies to build practical and user-focused applications.
+
 
 With experience in **Python, Object-Oriented Programming, Web Development, and Data Analysis**, I focus on building scalable, structured, and real-world-ready applications.
 
 ---
 
 ## 🚀 What I Do
-- Design and develop **Python-based systems** using OOP principles  
-- Build **web interfaces** with HTML, CSS, and JavaScript  
-- Develop **AI-assisted and data-driven applications**  
-- Create **real-world software projects** based on mathematical and logical foundations  
+• Build Python-based systems using Object-Oriented Programming  
+• Develop web interfaces with HTML, CSS and JavaScript  
+• Create data-driven and AI-assisted applications  
+• Design real-world software projects based on mathematical and logical thinking
+• Applied Mathematics in Software  
 
 ---
 
@@ -30,7 +35,7 @@ With experience in **Python, Object-Oriented Programming, Web Development, and D
 Python, JavaScript, C++, C#, HTML, CSS, SQL  
 
 **Frameworks & Platforms:**  
-React, Node.js, .NET, Bootstrap, GitHub  
+React, Node.js, .NET, Bootstrap, Git & GitHub 
 
 **Data & AI:**  
 Pandas, NumPy, Matplotlib, Streamlit  
