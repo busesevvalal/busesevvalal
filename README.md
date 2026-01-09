@@ -8,15 +8,13 @@ I focus on building practical, user-focused applications using Python, Object-Or
 
 With experience in **Python, Object-Oriented Programming, Web Development, and Data Analysis**, I build scalable, structured, and real-world-ready applications.
 
-
 ---
 
 ## 🚀 What I Do
-• Build Python-based systems using Object-Oriented Programming  
-• Develop web interfaces with HTML, CSS and JavaScript  
-• Create data-driven and AI-assisted applications  
-• Design real-world software projects based on mathematical and logical thinking
-• Applied Mathematics in Software  
+- Build Python-based systems using Object-Oriented Programming  
+- Develop web interfaces with HTML, CSS, and JavaScript  
+- Create data-driven and AI-assisted applications  
+- Design real-world software projects based on mathematical and logical thinking  
 
 ---
 
@@ -34,7 +32,7 @@ With experience in **Python, Object-Oriented Programming, Web Development, and D
 Python, JavaScript, C++, C#, HTML, CSS, SQL  
 
 **Frameworks & Platforms:**  
-React, Node.js, .NET, Bootstrap, Git & GitHub 
+React, Node.js, .NET, Bootstrap, Git & GitHub  
 
 **Data & AI:**  
 Pandas, NumPy, Matplotlib, Streamlit  
@@ -42,7 +40,7 @@ Pandas, NumPy, Matplotlib, Streamlit
 ---
 
 ## 🌍 Connect with Me
-📧 Email: busesevvalal@gmail.com
-🔗 LinkedIn: (https://www.linkedin.com/in/buse-%C5%9Fevval-al-83074b240/)
+📧 **Email:** busesevvalal@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/buse-%C5%9Fevval-al-83074b240/  
 
 I’m open to collaborations, internships, and professional opportunities in software, AI, and data-driven projects.
