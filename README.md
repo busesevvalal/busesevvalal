@@ -1,24 +1,44 @@
-# 💫 About Me:
-Hello! 🌟 I'm a student studying Computer Mathematics at Beykent University and Management Information Systems at Istanbul University. During my education, I've developed a keen interest in software development, particularly in languages like C++ and .NET. Additionally, I've honed my skills in web development, focusing on frontend technologies such as HTML, CSS, and JavaScript, gaining experience in creating interactive and up-to-date websites at a junior level. 💻<br><br>I possess strong social and communication skills, and I actively enjoy participating in team projects. Balancing harmonious relationships with others and creating innovative and functional projects are both integral to my aspirations. 🤝<br><br>On my GitHub profile, I aim to showcase my progress and eagerness to learn by sharing my software and web development projects. 🚀 If you'd like to collaborate on a project or learn more about me, please don't hesitate to get in touch.
+# 👋 Hi, I'm Buse Şevval Al
 
+🎓 **Mathematics Graduate | Software Developer | AI & Data Enthusiast**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bsa.matematikevreni) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bsa.matematikevreni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/buse-şevval-al-83074b240) 
+I am a Mathematics graduate with a strong analytical background and a professional interest in software development, artificial intelligence, and data-driven systems. I specialize in transforming complex mathematical concepts into practical and efficient software solutions.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=busesevvalal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=busesevvalal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=busesevvalal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+With experience in **Python, Object-Oriented Programming, Web Development, and Data Analysis**, I focus on building scalable, structured, and real-world-ready applications.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=busesevvalal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🚀 What I Do
+- Design and develop **Python-based systems** using OOP principles  
+- Build **web interfaces** with HTML, CSS, and JavaScript  
+- Develop **AI-assisted and data-driven applications**  
+- Create **real-world software projects** based on mathematical and logical foundations  
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Areas of Interest
+- Software Engineering  
+- Artificial Intelligence  
+- Data Analysis & Modeling  
+- Web & Frontend Development  
+- Algorithmic Thinking  
+
+---
+
+## 🛠 Tech Stack
+**Languages & Tools:**  
+Python, JavaScript, C++, C#, HTML, CSS, SQL  
+
+**Frameworks & Platforms:**  
+React, Node.js, .NET, Bootstrap, GitHub  
+
+**Data & AI:**  
+Pandas, NumPy, Matplotlib, Streamlit  
+
+---
+
+## 🌍 Connect with Me
+📧 Email: *(isteğe bağlı eklersin)*  
+🔗 LinkedIn: *(profil linkini koyabilirsin)*  
+
+I’m open to collaborations, internships, and professional opportunities in software, AI, and data-driven projects.
