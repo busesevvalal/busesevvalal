@@ -2,13 +2,12 @@
 
 🎓 Mathematics Graduate | Software & Front-End Developer
 
-I’m a Mathematics graduate with a strong interest in software development and problem-solving. 
-I enjoy turning mathematical ideas and logical structures into clean, functional code.
+I’m a Mathematics graduate with a strong interest in software development and problem-solving. I enjoy turning mathematical ideas and logical structures into clean, functional code.
 
-I mostly work with Python, Object-Oriented Programming, and Front-End technologies to build practical and user-focused applications.
+I focus on building practical, user-focused applications using Python, Object-Oriented Programming, and modern front-end technologies.
 
+With experience in **Python, Object-Oriented Programming, Web Development, and Data Analysis**, I build scalable, structured, and real-world-ready applications.
 
-With experience in **Python, Object-Oriented Programming, Web Development, and Data Analysis**, I focus on building scalable, structured, and real-world-ready applications.
 
 ---
 
